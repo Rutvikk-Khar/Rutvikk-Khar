@@ -24,7 +24,7 @@
   <a href="https://www.linkedin.com/in/rutvikk-kharod/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="30" height="20" alt="linkedin logo"  />
   </a>
-  <a href="rutvikkutd@gmail.com" target="_blank">
+  <a href="mailto:rutvikkutd@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="30" height="20" alt="gmail logo"  />
   </a>
   <a href="https://twitter.com/Rutvikk_K" target="_blank">
